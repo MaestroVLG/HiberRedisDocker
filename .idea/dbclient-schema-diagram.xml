@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DbClientSchemaDiagramLayout">
+    <option name="entries">
+      <list>
+        <Entry>
+          <option name="key" value="546c5631-588a-44da-8e12-516045e59a59::world::::world.city" />
+          <option name="x" value="16" />
+          <option name="y" value="-167" />
+        </Entry>
+        <Entry>
+          <option name="key" value="546c5631-588a-44da-8e12-516045e59a59::world::::world.country" />
+          <option name="x" value="331" />
+          <option name="y" value="-189" />
+        </Entry>
+        <Entry>
+          <option name="key" value="546c5631-588a-44da-8e12-516045e59a59::world::::world.countrylanguage" />
+          <option name="y" value="25" />
+        </Entry>
+      </list>
+    </option>
+    <option name="viewports">
+      <list>
+        <ViewportEntry>
+          <option name="centerX" value="471.10339454545465" />
+          <option name="centerY" value="5.635455454545564" />
+          <option name="key" value="546c5631-588a-44da-8e12-516045e59a59::world::::" />
+          <option name="zoom" value="1.1000000000000003" />
+        </ViewportEntry>
+      </list>
+    </option>
+  </component>
+</project>

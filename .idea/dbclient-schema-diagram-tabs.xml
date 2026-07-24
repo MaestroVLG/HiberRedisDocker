@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DbClientSchemaDiagramTabs">
+    <option name="tabs">
+      <list>
+        <Entry>
+          <option name="connectionId" value="546c5631-588a-44da-8e12-516045e59a59" />
+          <option name="connectionName" value="local-docker" />
+          <option name="databaseName" value="world" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+</project>
