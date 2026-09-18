@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DbClientConnectionScopeFilter">
+    <option name="entries">
+      <list>
+        <ConnectionScopeStateEntry>
+          <option name="connectionId" value="546c5631-588a-44da-8e12-516045e59a59" />
+          <option name="visibleDatabases">
+            <list>
+              <option value="world" />
+            </list>
+          </option>
+        </ConnectionScopeStateEntry>
+      </list>
+    </option>
+  </component>
+</project>
